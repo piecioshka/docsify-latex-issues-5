@@ -1,6 +1,7 @@
 {
   "name": "docsify-demo",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "Simple Parcel Sandbox",
   "main": "index.html"
 }

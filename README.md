@@ -100,3 +100,7 @@ You should set the `data-app` attribute if you changed `el`:
     }
   </script>
 ```
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
