@@ -103,4 +103,4 @@ You should set the `data-app` attribute if you changed `el`:
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2026
+[The MIT License](https://piecioshka.mit-license.org) @ 2026
